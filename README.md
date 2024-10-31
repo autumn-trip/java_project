@@ -18,19 +18,19 @@
 ▶ 구현 화면
 
 - 게임 시작 후 첫화면 & 레시피 설명
-![image](https://github.com/user-attachments/assets/a90aeed8-5f62-4cda-a111-818ad4a657d9)
+- ![image](https://github.com/user-attachments/assets/a90aeed8-5f62-4cda-a111-818ad4a657d9)
 
-- 현재 자금 표시 및 게임 진행 선택 
-![image](https://github.com/user-attachments/assets/a45517b5-e191-4003-b7a3-6049294e70a9)
+- 현재 자금 표시 및 게임 진행 선택
+- ![image](https://github.com/user-attachments/assets/a45517b5-e191-4003-b7a3-6049294e70a9)
 
 - 레시피 작성 후 다음 스테이지 시작
-![image](https://github.com/user-attachments/assets/6f58bf72-1fcc-4825-8b8c-b060e36093ce)
+- ![image](https://github.com/user-attachments/assets/6f58bf72-1fcc-4825-8b8c-b060e36093ce)
 
 - 게임 목표 달성
-![image](https://github.com/user-attachments/assets/b68f4a04-f174-43f4-beaf-f5e1c8a919c9)
+- ![image](https://github.com/user-attachments/assets/b68f4a04-f174-43f4-beaf-f5e1c8a919c9)
 
 - 레시피 입력 실패 시 횟수 카운팅
-![image](https://github.com/user-attachments/assets/564ce6af-15ce-4eca-999f-e8a393a6c681)
+- ![image](https://github.com/user-attachments/assets/564ce6af-15ce-4eca-999f-e8a393a6c681)
 
 - 3회 실패 시 종료
-![image](https://github.com/user-attachments/assets/fd7c01a9-cb16-4c8c-b3b1-ad0e0d3cecba)
+- ![image](https://github.com/user-attachments/assets/fd7c01a9-cb16-4c8c-b3b1-ad0e0d3cecba)
